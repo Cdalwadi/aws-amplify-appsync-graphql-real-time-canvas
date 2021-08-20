@@ -30,7 +30,7 @@ p {
 .tools {
   display: flex;
   justify-content: space-between;
-  width: 400px;
+  width: 1400px;
 }
 
 input[type=number] {
